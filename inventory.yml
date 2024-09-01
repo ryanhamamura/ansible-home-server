@@ -1,0 +1,13 @@
+media:
+  hosts:
+    photoprism:
+    jellyfin:
+    navidrome:
+
+ungrouped:
+  hosts:
+    #homeassistant:
+    homepage:
+    paperless:
+    #semaphore:
+    jumpbox:
